@@ -15,6 +15,6 @@ h2{
 p{
     font-family: "Century Gothic", sans-serif; font-size: 24px;
 }
-a:link {
+a:link, a:visited {
     color: #E54B4B;
 }
