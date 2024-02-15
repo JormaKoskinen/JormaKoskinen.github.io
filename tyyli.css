@@ -1,9 +1,11 @@
 body{
     color: #230C0F;
     background-color: #EFF2C0;
-    margin: 20px 40px;
 }
 h1{
     color:#E54B4B;
+    text-align: center;
+}
+h2{
     text-align: center;
 }
