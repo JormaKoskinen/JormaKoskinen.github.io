@@ -6,7 +6,6 @@ body{
     color:#E54B4B;
     font-family: "Arial Black", "Arial Bold", sans-serif;font-size: 44px;
     text-align: center;
-    margin-top: 450px;
 }
 .port{
     text-align: center;
@@ -14,6 +13,7 @@ body{
 }
 p{
     font-family: "Century Gothic", sans-serif; font-size: 24px;
+    text-align: center;
 }
 a:link, a:visited {
     color: #E54B4B;
