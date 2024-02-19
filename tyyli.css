@@ -2,11 +2,6 @@ body{
     color: #230C0F;
     background-color: #EFF2C0;
 }
-.cv{
-    color:#E54B4B;
-    font-family: "Arial Black", "Arial Bold", sans-serif;font-size: 44px;
-    text-align: center;
-}
 .port{
     text-align: center;
     font-family: "Arial Black", "Arial Bold", sans-serif;
@@ -18,7 +13,8 @@ p{
 a:link, a:visited {
     color: #E54B4B;
 }
-.tausta1{
-    width: 100%;
-    height: auto;
+.yla{
+    color:#E54B4B;
+    font-family: "Arial Black", "Arial Bold", sans-serif;font-size: 44px;
+    text-align: center;
 }
