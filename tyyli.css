@@ -34,10 +34,12 @@ a:link, a:visited {
 }
 header{
     background-color: #230C0F;
-    margin: 0%;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 nav{
-    padding: 7px;
+    padding-top: 7px;
+    padding-bottom: 7px;
     height: fit-content;
     text-align: right;
     font-family: "Arial Black", "Arial Bold", sans-serif;font-size: 32px;
