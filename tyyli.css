@@ -28,6 +28,9 @@ a:link, a:visited {
     text-align: center;
     font-family: "Arial Black", "Arial Bold", sans-serif;
 }
+header{
+    background-color: #230C0F;
+}
 nav{
     height: fit-content;
     text-align: right;
