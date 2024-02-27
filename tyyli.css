@@ -27,5 +27,7 @@ a:link, a:visited {
     font-family: "Arial Black", "Arial Bold", sans-serif;
 }
 .headi{
-    text-align: left;
+    text-align: right;
+    font-family: "Arial Black", "Arial Bold", sans-serif;font-size: 30px;
+
 }
