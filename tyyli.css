@@ -15,6 +15,7 @@ p{
 }
 a:link, a:visited {
     color: #E54B4B;
+    text-decoration: none;
 }
 .yla{
     background-image: url(kuvat/kallio_tausta2.jpg);
