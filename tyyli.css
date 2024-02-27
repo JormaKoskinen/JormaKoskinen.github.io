@@ -27,6 +27,7 @@ a:link, a:visited {
     font-family: "Arial Black", "Arial Bold", sans-serif;
 }
 nav{
+    height: fit-content;
     text-align: right;
     font-family: "Arial Black", "Arial Bold", sans-serif;font-size: 32px;
  
