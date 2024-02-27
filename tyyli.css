@@ -27,10 +27,10 @@ a:link, a:visited {
     font-family: "Arial Black", "Arial Bold", sans-serif;
 }
 nav{
-    text-align: end;
+    text-align: right;
     font-family: "Arial Black", "Arial Bold", sans-serif;font-size: 32px;
  
 }
 head{
-    text-align: end;
+    text-align: right;
 }
