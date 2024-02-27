@@ -51,6 +51,6 @@ header{
     color: #EFF2C0;
 }
 .joona{
-    align: center;
-    image: 50%;
+    width: 400px;
+    height: auto;
 }
