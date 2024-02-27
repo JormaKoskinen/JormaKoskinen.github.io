@@ -33,6 +33,7 @@ a:link, a:visited {
 }
 header{
     background-color: #230C0F;
+    margin: 0%;
 }
 nav{
     height: fit-content;
