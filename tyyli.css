@@ -38,8 +38,7 @@ header{
     padding-bottom: 10px;
 }
 nav{
-    padding-top: 7px;
-    padding-bottom: 7px;
+    padding: 10px;
     height: fit-content;
     text-align: right;
     font-family: "Arial Black", "Arial Bold", sans-serif;font-size: 32px;
