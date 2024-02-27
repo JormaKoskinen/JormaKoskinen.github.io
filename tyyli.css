@@ -36,5 +36,6 @@ head{
     text-align: right;
 }
 .tausta1{
-    width: auto;
+    width: max-content;
+    height: 50%;
 }
