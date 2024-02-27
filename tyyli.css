@@ -53,4 +53,5 @@ header{
 .cvsisa{
     text-align: center;
     align-content: center;
+    display: block;
 }
