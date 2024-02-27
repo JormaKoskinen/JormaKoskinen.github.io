@@ -16,13 +16,15 @@ a:link, a:visited {
     color: #E54B4B;
 }
 .yla{
-    width: 100%;
+    background-image: url(kuvat/kallio_tausta2.jpg);
+    background-size: cover;
     color:#E54B4B;
     font-family: "Arial Black", "Arial Bold", sans-serif;font-size: 44px;
     text-align: center;
 }
 .ala{
-    width: 100%;
+    background-image: url(kuvat/kallio_tausta2.jpg);
+    background-size: cover;
     text-align: center;
     font-family: "Arial Black", "Arial Bold", sans-serif;
 }
