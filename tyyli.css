@@ -57,7 +57,7 @@ nav{
 }
 .joona{
     max-width: 300px;
-    vertical-align: middle;
+    align-content: center;
 }
 footer{
     font-family: "Century Gothic", sans-serif; font-size: 24px;
