@@ -66,6 +66,7 @@ footer{
     display: flex;
     width: 100%;
     bottom: 0;
+    position: fixed;
 }
 @media screen and (min-width:1200px){
     
