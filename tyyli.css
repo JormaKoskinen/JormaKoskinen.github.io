@@ -23,17 +23,11 @@ a:link, a:visited {
     text-decoration: none;
 }
 .yla{
-    background-image: url(kuvat/kallio_tausta2.jpg);
-    background-size: cover;
-    height: auto;
     color:#E54B4B;
     font-family: "Arial Black", "Arial Bold", sans-serif;font-size: 44px;
     text-align: center;
 }
 .ala{
-    background-image: url(kuvat/kallio_tausta2.jpg);
-    background-size: cover;
-    height: auto;
     text-align: center;
     font-family: "Arial Black", "Arial Bold", sans-serif;
 }
