@@ -63,7 +63,7 @@ footer{
     background-color: #230C0F;
     text-align: center;
     color: #E54B4B;
-    position: fixed;
+    display: flex;
     width: 100%;
 }
 
