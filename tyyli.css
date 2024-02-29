@@ -35,6 +35,8 @@ a:link, a:visited {
 header{
     background-color: #230C0F;
     padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
 }
 nav{
     padding: 10px;
@@ -43,9 +45,7 @@ nav{
     font-family: "Arial Black", "Arial Bold", sans-serif;font-size: 32px;
  
 }
-header{
-    text-align: right;
-}
+
 #valittu{
     color: #EFF2C0;
 }
