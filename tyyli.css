@@ -25,7 +25,7 @@ a:link, a:visited {
 .yla{
     background-image: url(kuvat/kallio_tausta2.jpg);
     background-size: cover;
-    height: 600px;
+    height: 100%;
     color:#E54B4B;
     font-family: "Arial Black", "Arial Bold", sans-serif;font-size: 44px;
     text-align: center;
