@@ -50,8 +50,13 @@ header{
     color: #EFF2C0;
 }
 .cvsisalto{
+    
     text-align: center;
     display: block;
+}
+.joona{
+    width: 50%;
+    height: auto;
 }
 footer{
     font-family: "Century Gothic", sans-serif; font-size: 24px;
