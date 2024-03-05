@@ -87,10 +87,6 @@ footer{
 .pohja{
     margin-bottom: 50px;
 }
-.footerdiv{
-    text-align: center;
-    display: block;
-}
 @media(max-width: 600px) {
     #yla {
         background-image: url(kuvat/kallio_tausta2.jpg);
