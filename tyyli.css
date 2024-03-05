@@ -30,10 +30,17 @@ a:link, a:visited {
     color:#E54B4B;
     font-family: "Arial Black", "Arial Bold", sans-serif;font-size: 44px;
     text-align: center;
+    position: relative;
 }
 .ala{
     text-align: center;
     font-family: "Arial Black", "Arial Bold", sans-serif;
+}
+.cv{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
 header{
     background-color: #230C0F;
