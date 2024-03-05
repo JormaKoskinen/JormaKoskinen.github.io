@@ -61,13 +61,11 @@ nav{
 footer{
     font-family: "Century Gothic", sans-serif; font-size: 24px;
     background-color: #230C0F;
+    align-content: center;
     text-align: center;
-    color: #E54B4B;
+    color: #EFF2C0;
     display: flex;
     width: 100%;
     bottom: 0;
     position: fixed;
 }
-@media screen and (min-width:1200px){
-    
-} 
