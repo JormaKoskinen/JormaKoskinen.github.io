@@ -21,6 +21,9 @@ p{
     margin: 10px;
 
 }
+.portlink{
+    font-family: "Century Gothic", sans-serif; font-size: 24px;
+}
 a:link, a:visited {
     color: #E54B4B;
     text-decoration: none;
