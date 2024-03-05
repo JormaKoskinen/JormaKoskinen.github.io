@@ -78,12 +78,14 @@ nav{
 footer{
     font-family: "Century Gothic", sans-serif; font-size: 24px;
     background-color: #230C0F;
-    text-align: center;
     color: #EFF2C0;
     display: flex;
     width: 100%;
     bottom: 0;
     position: fixed;
+}
+.footerdiv{
+    text-align: center;
 }
 @media(max-width: 600px) {
     #yla {
