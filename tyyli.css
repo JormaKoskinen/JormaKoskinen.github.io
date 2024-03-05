@@ -68,6 +68,12 @@ nav{
     max-width: 500px;
     width: 100%;
 }
+.portlink{
+    color: #E54B4B;
+    text-decoration: none;
+    font-family: "Century Gothic", sans-serif; font-size: 24px;
+
+}
 
 footer{
     font-family: "Century Gothic", sans-serif; font-size: 24px;
