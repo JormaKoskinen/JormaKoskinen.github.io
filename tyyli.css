@@ -18,9 +18,8 @@ h2{
 p{
     font-family: "Century Gothic", sans-serif; font-size: 24px;
     text-align: center;
-    margin-left: 10px;
-    margin-right: 10px;
-    margin-bottom: 100px;
+    margin: 10px;
+
 }
 a:link, a:visited {
     font-family: "Arial Black", "Arial Bold", sans-serif;font-size: 44px;
