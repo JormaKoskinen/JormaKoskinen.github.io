@@ -114,11 +114,11 @@ footer{
     #yla {
         background-image: url(kuvat/kallio_tausta2.jpg);
         background-size: cover;
-        height: 600px;
+        height: 100%;
     }
     #ala {
         background-image: url(kuvat/kallio_tausta2.jpg);
         background-size: cover;
-        height: 600px;
+        height: 100%;
     }
 }
