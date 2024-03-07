@@ -30,7 +30,7 @@ a:link, a:visited {
     color:#E54B4B;
     font-family: "Arial Black", "Arial Bold", sans-serif;font-size: 44px;
     text-align: center;
-    position: relative;
+    position: absolute;
 }
 .ala{
     text-align: center;
