@@ -103,12 +103,12 @@ footer{
 
 @media(max-width: 600px) {
     #yla {
-        background-image: src="kuvat/kallio_tausta2.jpg";
+        background-image: url(kuvat/kallio_tausta2.jpg);
         background-size: cover;
         height: 400px;
     }
     #ala {
-        background-image: src="kuvat/kallio_tausta2.jpg";
+        background-image: url(kuvat/kallio_tausta2.jpg);
         background-size: cover;
         height: 400px;
     }
@@ -125,11 +125,11 @@ footer{
 }
 @media screen and (min-width: 600px) {
     #yla {
-        background-image: src="kuvat/kallio_tausta2.jpg";
+        background-image: url(kuvat/kallio_tausta2.jpg);
         background-size: cover;
         height: 450px;
     }#ala {
-        background-image: src="kuvat/kallio_tausta2.jpg";
+        background-image: url(kuvat/kallio_tausta2.jpg);
         background-size: cover;
         height: 450px;
     }
@@ -142,12 +142,12 @@ footer{
 }
 @media screen and (min-width: 1200px) {
     #yla {
-        background-image: src="kuvat/kallio_tausta2.jpg";
+        background-image: url(kuvat/kallio_tausta2.jpg);
         background-size: cover;
         height: 450px;
     }
     #ala {
-        background-image: src="kuvat/kallio_tausta2.jpg";
+        background-image: url(kuvat/kallio_tausta2.jpg);
         background-size: cover;
         height: 450px;
     }
