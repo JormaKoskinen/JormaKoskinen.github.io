@@ -64,7 +64,13 @@ nav{
     text-align: center;
     display: block;
 }
+/*kuvat */
 .joona{
+    max-width: 500px;
+    width: 80%;
+
+}
+.marko{
     max-width: 500px;
     width: 80%;
 }
