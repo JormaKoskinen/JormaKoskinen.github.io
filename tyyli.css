@@ -125,7 +125,7 @@ footer{
 }
 @media screen and (min-width: 600px) {
     #yla {
-        background-image: url(kuvat/kallio_tausta2.jpg);
+        background-image: src="kuvat/kallio_tausta2.jpg";
         background-size: cover;
         height: 450px;
     }#ala {
