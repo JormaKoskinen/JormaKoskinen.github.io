@@ -26,6 +26,7 @@ a:link, a:visited {
     color: #E54B4B;
     text-decoration: none;
 }
+/*etusivu */
 .yla{
     color:#E54B4B;
     font-family: "Arial Black", "Arial Bold", sans-serif;font-size: 44px;
@@ -39,6 +40,8 @@ a:link, a:visited {
 .cv{
     padding-top: 100px;
 }
+
+
 header{
     background-color: #230C0F;
     padding-top: 10px;
@@ -52,7 +55,6 @@ nav{
     font-family: "Arial Black", "Arial Bold", sans-serif;font-size: 32px;
  
 }
-
 #valittu{
     color: #EFF2C0;
 }
@@ -61,6 +63,8 @@ nav{
     text-align: center;
     display: block;
 }
+
+
 /*kuvat */
 .joona{
     max-width: 500px;
@@ -71,6 +75,9 @@ nav{
     max-width: 500px;
     width: 80%;
 }
+
+
+/* portfolio*/
 .portlink{
     color: #E54B4B;
     text-decoration: none;
@@ -82,6 +89,7 @@ nav{
     display: block;
 }
 
+
 footer{
     font-family: "Century Gothic", sans-serif; font-size: 24px;
     background-color: #230C0F;
@@ -91,9 +99,7 @@ footer{
     bottom: 0;
     position: fixed;
 }
-.pohja{
-    margin-bottom: 50px;
-}
+
 @media(max-width: 600px) {
     #yla {
         background-image: url(kuvat/kallio_tausta2.jpg);
