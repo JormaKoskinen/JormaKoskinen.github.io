@@ -119,6 +119,9 @@ footer{
     #cv{
         padding: 150px;
     }
+    #ala{
+        padding: 150px;
+    }
 }
 @media screen and (min-width: 600px) {
     #yla {
@@ -131,6 +134,9 @@ footer{
         height: 450px;
     }
     #cv{
+        padding: 180px;
+    }
+    #ala{
         padding: 180px;
     }
 }
@@ -146,6 +152,9 @@ footer{
         height: 450px;
     }
     #cv{
+        padding: 180px;
+    }
+    #ala{
         padding: 180px;
     }
 }
