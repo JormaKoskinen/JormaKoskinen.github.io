@@ -101,6 +101,9 @@ footer{
         background-size: cover;
         height: 300px;
     }
+    .marko{
+        max-width: 100px;
+    }
 }
 @media screen and (min-width: 600px) {
     #yla {
