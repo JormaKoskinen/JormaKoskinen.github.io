@@ -139,4 +139,7 @@ footer{
         background-size: cover;
         height: 450px;
     }
+    #cv{
+        padding: 100px;
+    }
 }
