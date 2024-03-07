@@ -104,14 +104,14 @@ footer{
     #yla {
         background-image: url(kuvat/kallio_tausta2.jpg);
         background-size: cover;
-        height: 300px;
+        height: 400px;
     }
     #ala {
         background-image: url(kuvat/kallio_tausta2.jpg);
         background-size: cover;
-        height: 300px;
+        height: 400px;
     }
-    .marko{
+    #marko{
         max-width: 100px;
         width: auto;
     }
