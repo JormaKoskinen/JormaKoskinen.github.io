@@ -117,10 +117,10 @@ footer{
         width: 100%;
     }
     #cv{
-        padding: 150px;
+        padding-top: 150px;
     }
     #ala{
-        padding: 150px;
+        padding-top: 150px;
     }
 }
 @media screen and (min-width: 600px) {
@@ -134,10 +134,10 @@ footer{
         height: 450px;
     }
     #cv{
-        padding: 180px;
+        padding-top: 180px;
     }
     #ala{
-        padding: 180px;
+        padding-top: 180px;
     }
 }
 @media screen and (min-width: 1200px) {
