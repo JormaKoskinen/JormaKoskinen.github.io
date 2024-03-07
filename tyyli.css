@@ -95,7 +95,7 @@ footer{
     display: flex;
     width: 100%;
     bottom: 0;
-    position: fixed;
+    position: static;
 }
 
 @media(max-width: 600px) {
