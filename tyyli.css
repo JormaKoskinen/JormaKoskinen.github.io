@@ -113,7 +113,7 @@ footer{
     }
     #marko{
         max-width: 100px;
-        width: auto;
+        width: 50%;
     }
 }
 @media screen and (min-width: 600px) {
