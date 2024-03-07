@@ -152,9 +152,10 @@ footer{
         height: 450px;
     }
     #cv{
-        padding: 180px;
+        padding-top: 180px;
     }
     #ala{
-        padding: 180px;
+
+        padding-top: 180px;
     }
 }
