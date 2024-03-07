@@ -37,10 +37,7 @@ a:link, a:visited {
     font-family: "Arial Black", "Arial Bold", sans-serif;
 }
 .cv{
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
+    padding-top: 100px;
 }
 header{
     background-color: #230C0F;
